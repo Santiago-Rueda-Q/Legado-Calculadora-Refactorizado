@@ -1,3 +1,4 @@
-## Santiago Rueda QUINTERO
+# Santiago Rueda QUINTERO
+## Refactorizacion
 
-[ReporteSemana1-Bilingue-Santiago Rueda Quintero.pdf](https://github.com/user-attachments/files/23191562/ReporteSemana1-Bilingue-Santiago.Rueda.Quintero.pdf)
+[Taller de Refactorización-Bilingue-Santiago Rueda Quintero.pdf](https://github.com/user-attachments/files/23193386/Taller.de.Refactorizacion-Bilingue-Santiago.Rueda.Quintero.pdf)
