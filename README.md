@@ -1,3 +1,7 @@
-## Santiago Rueda QUINTERO
+# Santiago Rueda QUINTERO
 
-[ReporteSemana1-Bilingue-Santiago Rueda Quintero.pdf](https://github.com/user-attachments/files/23191562/ReporteSemana1-Bilingue-Santiago.Rueda.Quintero.pdf)
+## Español
+[ReporteSemana4-Santiago-Español.pdf](https://github.com/user-attachments/files/23339621/ReporteSemana4-Santiago-Espanol.pdf)
+
+## Ingles
+[ReporteSemana4-Santiago-Ingles.pdf](https://github.com/user-attachments/files/23339617/ReporteSemana4-Santiago-Ingles.pdf)
