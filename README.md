@@ -1,3 +1,3 @@
 ## Santiago Rueda QUINTERO
 
-[ReporteSemana1-Bilingue-Santiago Rueda Quintero.pdf](https://github.com/user-attachments/files/23191562/ReporteSemana1-Bilingue-Santiago.Rueda.Quintero.pdf)
+[Taller de Auditoría Comparativa Profesional .pdf](https://github.com/user-attachments/files/23481777/Taller.de.Auditoria.Comparativa.Profesional.pdf)
